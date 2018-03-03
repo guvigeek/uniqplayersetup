@@ -1,0 +1,1 @@
+You musst install .netframwork
